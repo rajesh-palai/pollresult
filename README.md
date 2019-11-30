@@ -1,0 +1,2 @@
+# pollresult
+version 1
